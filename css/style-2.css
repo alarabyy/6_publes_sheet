@@ -86,7 +86,8 @@ color: rgb(255, 91, 91);
     /* border: px white solid; */
 
 }#iconnav:hover{
-    color: rgb(49, 49, 49);
+    /* border: white 2px double; */
+    color: rgb(216, 0, 0);
 
 }
 /* --------------------------------------------------------------------- */
@@ -160,7 +161,7 @@ border-left: 1px rgb(152, 53, 53) solid;
 }
 .container img{
     width: 200px;
-    justify-content: ;
+    /* justify-content: ;/ */
     /* transform: translate(40vw,-10px); */
 }
 .container .im2{
